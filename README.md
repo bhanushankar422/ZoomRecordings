@@ -17,9 +17,9 @@ This repository contains the Zoom recordings and documents shared for Java train
 
 ## Introduction
 ### <ins>Documents</ins>
-[Development Cycle.pdf](01/Development%20Cycle.pdf)
+[Development Cycle.pdf](documents/Development%20Cycle.pdf)
 ### <ins>Recordings</ins>
-[Day 01 - Introduction](01/Introduction.mp4)
+[Day 01 - Introduction](recordings/Introduction.mp4)
 
 
 ## Environment setup
