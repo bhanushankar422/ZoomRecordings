@@ -1,4 +1,4 @@
-# ZoomRecordings
+# Zoom Recordings for Java Training
 This repository contains the Zoom recordings and documents shared for Java training sessions.
 
 ### Table of Contents
