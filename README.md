@@ -23,6 +23,8 @@ This repository contains the Zoom recordings and documents shared for Java train
 
 
 ## Environment setup
+### <ins>Recordings</ins>
+[Day 02 - VSCode Plugins](recordings/VScodePlugins.mp4)
 
 ## Java elementary
 
