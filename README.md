@@ -30,6 +30,11 @@ This repository contains the Zoom recordings and documents shared for Java train
 [Day 03 - IDE & Git](recordings/Git.mp4)
 
 ## Java elementary
+### <ins>Documents</ins>
+[Jvm](documents/Jvm.pdf)
+[Java Anatomy](documents/Java%20Anatomy.pdf)
+### <ins>Recordings</ins>
+[Day 04 - JVM & Java Anatomy](recordings/JVM.mp4)
 
 ## Java middle school
 
