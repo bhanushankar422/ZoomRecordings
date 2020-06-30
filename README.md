@@ -26,12 +26,12 @@ This repository contains the Zoom recordings and documents shared for Java train
 ### <ins>Documents</ins>
 [Git.png](documents/git.png)
 ### <ins>Recordings</ins>
-[Day 02 - VSCode Plugins](recordings/VScodePlugins.mp4)
+[Day 02 - VSCode Plugins](recordings/VScodePlugins.mp4) <br>
 [Day 03 - IDE & Git](recordings/Git.mp4)
 
 ## Java elementary
 ### <ins>Documents</ins>
-[Jvm](documents/Jvm.pdf)
+[Jvm](documents/Jvm.pdf) <br>
 [Java Anatomy](documents/Java%20Anatomy.pdf)
 ### <ins>Recordings</ins>
 [Day 04 - JVM & Java Anatomy](recordings/JVM.mp4)
