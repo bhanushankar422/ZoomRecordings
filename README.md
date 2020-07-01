@@ -35,6 +35,7 @@ This repository contains the Zoom recordings and documents shared for Java train
 [Java Anatomy](documents/Java%20Anatomy.pdf)
 ### <ins>Recordings</ins>
 [Day 04 - JVM & Java Anatomy](recordings/JVM.mp4)
+[Day 05 - OOPs Part 1](recordings/OOPsPart1.mp4)
 
 ## Java middle school
 
