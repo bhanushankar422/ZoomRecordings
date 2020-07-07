@@ -37,7 +37,8 @@ This repository contains the Zoom recordings and documents shared for Java train
 ### <ins>Recordings</ins>
 [Day 04 - JVM & Java Anatomy](recordings/JVM.mp4) <br>
 [Day 05 - OOPs Part 1](recordings/OOPsPart1.mp4) <br>
-[Day 06 - Data types Part 1](recordings/OOPsPart1.mp4) <br>
+[Day 06 - Data types Part 1](recordings/DataTypes.mp4) <br>
+[Day 07 - Data types Part 2](recordings/PassBy.mp4) <br>
 
 ## Java middle school
 
