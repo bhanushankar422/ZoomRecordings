@@ -41,6 +41,7 @@ This repository contains the Zoom recordings and documents shared for Java train
 [Day 07 - Data types Part 2](recordings/PassBy.mp4) <br>
 
 ## Java middle school
+[Day 08 - Loops](recordings/Loops.mp4) <br>
 
 ## Java high school
 
