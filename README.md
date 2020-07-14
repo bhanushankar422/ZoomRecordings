@@ -43,6 +43,7 @@ This repository contains the Zoom recordings and documents shared for Java train
 ## Java middle school
 [Day 08 - Loops](recordings/Loops.mp4) <br>
 [Day 09 - Static, Inheritance](recordings/StaticInheritance.mp4) <br>
+[Day 10 - Abstract, Interface](recordings/AbstractInterface.mp4) <br>
 
 ## Java high school
 
