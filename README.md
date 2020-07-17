@@ -49,8 +49,10 @@ This repository contains the Zoom recordings and documents shared for Java train
 ## Java high school
 ### <ins>Documents</ins>
 [Collections](documents/Collections.pdf) <br>
+[Threads](documents/Threads.pdf) <br>
 ### <ins>Recordings</ins>
 [Day 11 - Collections](recordings/Collections.mp4) <br>
+[Day 12 - Threads](recordings/Threads.mp4) <br>
 
 ## Maven
 
