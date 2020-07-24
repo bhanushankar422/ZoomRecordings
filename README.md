@@ -59,11 +59,13 @@ This repository contains the Zoom recordings and documents shared for Java train
 [Maven Install instructions](https://maven.apache.org/install.html) <br>
 [Maven Build Lifecycle](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html) <br>
 [Maven in 5 minutes](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html) <br>
+[AssertJ](https://joel-costigliola.github.io/assertj/assertj-core-quick-start.html) <br>
 ### <ins>Documents</ins>
 [Maven](documents/Maven.pdf) <br>
 ### <ins>Recordings</ins>
 [Day 13 - Maven Part 1](recordings/MavenPart1.mp4) <br>
 [Day 14 - Maven Part 2](recordings/MavenPart2.mp4) <br>
+[Day 14 - Assertions](recordings/Assertions.mp4) <br>
 
 ## Assertions
 
