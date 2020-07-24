@@ -65,7 +65,7 @@ This repository contains the Zoom recordings and documents shared for Java train
 ### <ins>Recordings</ins>
 [Day 13 - Maven Part 1](recordings/MavenPart1.mp4) <br>
 [Day 14 - Maven Part 2](recordings/MavenPart2.mp4) <br>
-[Day 14 - Assertions](recordings/Assertions.mp4) <br>
+[Day 15 - Assertions](recordings/Assertions.mp4) <br>
 
 ## Assertions
 
