@@ -78,6 +78,8 @@ This repository contains the Zoom recordings and documents shared for Java train
 [Day 17 - Types of Testing](recordings/TestingTypes.mp4) <br>
 
 ## Selenium
+### <ins>Recordings</ins>
+[Day 18 - Selenium](recordings/Selenium.mp4) <br>
 
 ## TestNG
 
