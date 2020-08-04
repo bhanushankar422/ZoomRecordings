@@ -78,8 +78,14 @@ This repository contains the Zoom recordings and documents shared for Java train
 [Day 17 - Types of Testing](recordings/TestingTypes.mp4) <br>
 
 ## Selenium
+### <ins>Helpful link</ins>
+[Types of testing](https://www.selenium.dev/documentation/en/introduction/types_of_testing/) <br>
+[Test pyramid](https://martinfowler.com/articles/practical-test-pyramid.html) <br>
+[Selenium Javadocs](https://www.selenium.dev/selenium/docs/api/java/) <br>
+[Page object pattern](https://martinfowler.com/bliki/PageObject.html) <br>
 ### <ins>Recordings</ins>
 [Day 18 - Selenium](recordings/Selenium.mp4) <br>
+[Day 19 - Selenium Part 2](recordings/SeleniumPart2.mp4) <br>
 
 ## TestNG
 
