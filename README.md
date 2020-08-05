@@ -88,6 +88,10 @@ This repository contains the Zoom recordings and documents shared for Java train
 [Day 19 - Selenium Part 2](recordings/SeleniumPart2.mp4) <br>
 
 ## TestNG
+### <ins>Helpful link</ins>
+[TestNG website](https://testng.org/doc/index.html) <br>
+### <ins>Recordings</ins>
+[Day 20 - TestNG](recordings/TestNG.mp4) <br>
 
 ## Cucumber
 
