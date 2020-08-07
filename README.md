@@ -94,5 +94,7 @@ This repository contains the Zoom recordings and documents shared for Java train
 [Day 20 - TestNG](recordings/TestNG.mp4) <br>
 
 ## Cucumber
+### <ins>Recordings</ins>
+[Day 21 - Cucumber](recordings/Cucumber.mp4) <br>
 
 ## API Testing
