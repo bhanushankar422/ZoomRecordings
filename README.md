@@ -98,3 +98,12 @@ This repository contains the Zoom recordings and documents shared for Java train
 [Day 21 - Cucumber](recordings/Cucumber.mp4) <br>
 
 ## API Testing
+### <ins>Helpful link</ins>
+[Status codes](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes) <br>
+[REST Assured Usage](https://github.com/rest-assured/rest-assured/wiki/Usage) <br>
+[REST Assured](http://rest-assured.io/) <br>
+[Postman](https://www.postman.com/) <br>
+[SoapUI](https://www.soapui.org/learn/functional-testing/) <br>
+
+### <ins>Recordings</ins>
+[Day 22 - Cucumber](recordings/ApiTesting.mp4) <br>
