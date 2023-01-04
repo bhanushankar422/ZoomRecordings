@@ -73,7 +73,7 @@ This repository contains the Zoom recordings and documents shared for Java train
 
 ## Browser Testing
 ### <ins>Documents</ins>
-[Maven](documents/ShiftLeft.pdf) <br>
+[Shift Left](documents/ShiftLeft.pdf) <br>
 ### <ins>Recordings</ins>
 [Day 17 - Types of Testing](recordings/TestingTypes.mp4) <br>
 
